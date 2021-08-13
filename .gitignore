@@ -21,6 +21,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 
 # build folders
 bin/
@@ -30,3 +31,5 @@ build/
 nbbuild/
 dist/
 nbdist/
+=======
+>>>>>>> 571aa52c1b1f61deecd6801deca98d23c36d91fb
